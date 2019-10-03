@@ -2,4 +2,6 @@
  This is one of the first homework assignments in the Full Stack bootcamp. 
  It is still public solely for the lols and as a mile marker for how far I have progressed.
  
+ Built using HTML and CSS.
+ 
  https://alexlo15.github.io/Responsive-Portfolio/
